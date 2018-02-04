@@ -18,18 +18,18 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./writeup_images/TypeHistogram.png "Histogram of Traffic Sign Types"
-[image2]: ./writeup_images/TypeSequence.png "Traffic Sign Type by Sequence Number"
-[image3]: ./writeup_images/Example11144.png "Example 11144"
-[image4]: ./writeup_images/Example11144.png "Example 11145"
-[image5]: ./writeup_images/PreAugmentation.png "Traffic Sign Before Preprocessing"
-[image6]: ./writeup_images/AugmentedData.png "Generated Traffic Sign Using OpenCV"
-[image7]: ./writeup_images/NormalizedData.png "Traffic Sign After Normalization"
-[image8]: ./test_images/1.JPG "Traffic Sign 1"
-[image9]: ./test_images/2.JPG "Traffic Sign 2"
-[image10]: ./test_images/3.JPG "Traffic Sign 3"
-[image11]: ./test_images/4.JPG "Traffic Sign 4"
-[image12]: ./test_images/5.JPG "Traffic Sign 5"
-[image13]: ./test_images/6.JPG "Traffic Sign 6"
+[image2]: ./writeup_images/TypeSequence.PNG "Traffic Sign Type by Sequence Number"
+[image3]: ./writeup_images/Example11144.PNG "Example 11144"
+[image4]: ./writeup_images/Example11144.PNG "Example 11145"
+[image5]: ./writeup_images/PreAugmentation.PNG "Traffic Sign Before Preprocessing"
+[image6]: ./writeup_images/AugmentedData.PNG "Generated Traffic Sign Using OpenCV"
+[image7]: ./writeup_images/NormalizedData.PNG "Traffic Sign After Normalization"
+[image8]: ./test_images/1.jpg "Traffic Sign 1"
+[image9]: ./test_images/2.jpg "Traffic Sign 2"
+[image10]: ./test_images/3.jpg "Traffic Sign 3"
+[image11]: ./test_images/4.jpg "Traffic Sign 4"
+[image12]: ./test_images/5.jpg "Traffic Sign 5"
+[image13]: ./test_images/6.jpg "Traffic Sign 6"
 
 
 ## Rubric Points
